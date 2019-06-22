@@ -15,3 +15,5 @@ Vue + [Phalapi](http://docs.phalapi.net/#/)
 /front 代码为前端代码，算是第一次写 Vue ，没有使用 npm ，直接写的静态。使用了 [CoolAdmin](https://github.com/puikinsh/CoolAdmin) 作为用户界面模版
 
 增加了`zedd.cc`到 `localhost`的`host`配置，配置好后台后，可以用`zedd.cc/front/login.php`访问登录界面
+
+`Bus.sql`文件为数据库文件
