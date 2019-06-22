@@ -17,3 +17,9 @@ Vue + [Phalapi](http://docs.phalapi.net/#/)
 增加了`zedd.cc`到 `localhost`的`host`配置，配置好后台后，可以用`zedd.cc/front/login.php`访问登录界面
 
 `Bus.sql`文件为数据库文件
+
+
+
+![](./imgs/login.png)
+
+![](./imgs/index.png)
